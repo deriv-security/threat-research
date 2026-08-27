@@ -103,7 +103,7 @@ Recorded so the relationships can be verified against public RDAP, not as any cl
 
 | Registrar | Domains | Registered |
 | :---- | :---- | :---- |
-| Dominet (HK) Limited | `ferncurrent14[.]com`, `quest-22[.]com`, `sheltercirrus[.]com`, `aspen-92[.]com` | \[TK: dates not collected\] |
+| Dominet (HK) Limited | `ferncurrent14[.]com`, `quest-22[.]com`, `sheltercirrus[.]com`, `aspen-92[.]com` | |
 | Global Domain Group LLC | `spicas[.]top`, `izaz[.]top`, `furud[.]top` | 2026-08-03T12:54:57.0Z (all three, identical to the second) |
 | Global Domain Group LLC | `amper[.]host` | 2026-03-21T19:33:52.781Z |
 
